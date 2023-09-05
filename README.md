@@ -1,6 +1,6 @@
-# TravelEasy Web App
+# LucidTravels Web App
 
-Welcome to **TravelEasy**, your one-stop solution for convenient and hassle-free travel ticket bookings. Whether you're planning a local trip or an international adventure, TravelEasy has got you covered with its user-friendly interface and robust ticketing system.
+Welcome to **LucidTravels**, your one-stop solution for convenient and hassle-free travel ticket bookings. Whether you're planning a local trip or an international adventure, LucidTravels has got you covered with its user-friendly interface and robust ticketing system.
 
 ## Features
 
